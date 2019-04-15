@@ -53,6 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Minimap.cs" />
      <Compile Include="Assets\NavMeshLink.cs" />
      <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\DialogueSystem.cs" />
@@ -154,6 +155,9 @@
      <Compile Include="Assets\SKY city lite\Standard Assets\Utility\TimedObjectDestructor.cs" />
      <Compile Include="Assets\SKY city lite\Standard Assets\Utility\WaypointCircuit.cs" />
      <Compile Include="Assets\SKY city lite\Standard Assets\Utility\WaypointProgressTracker.cs" />
+     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\CameraLogic.cs" />
+     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\Demo.cs" />
+     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\SimpleCharacterControl.cs" />
      <None Include="Assets\SKY city lite\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />

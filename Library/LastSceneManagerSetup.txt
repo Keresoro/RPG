@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/MortyWorldTeleport1.unity
+- path: Assets/Scenes/MortyWorld.unity
   isLoaded: 1
   isActive: 1
