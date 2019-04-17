@@ -6,14 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4e4bd3fc5b39ff94da103c483c8b5f74
+  - enabled: 1
     path: Assets/Scenes/MortyWorld.unity
     guid: 4c80d5b87eac2634e88275430e4df3cf
   - enabled: 1
-    path: Assets/Scenes/MortyWorldTeleport.unity
-    guid: d4e5d54cde1092841a3970ed9864e3aa
+    path: Assets/Scenes/MWTB.unity
+    guid: 7900e18967354d543b89212205bb43ee
   - enabled: 1
-    path: Assets/Scenes/MortyWorldTeleportReturn.unity
-    guid: b136710371fa2c842ba2b447e3d048ff
+    path: Assets/Scenes/MWTBR.unity
+    guid: f713f67900af36449bb6b9b51117b414
+  - enabled: 1
+    path: Assets/Scenes/MWTM.unity
+    guid: 7fea29ab18a1e0d4c80ff82bea73f6c4
+  - enabled: 1
+    path: Assets/Scenes/MWTMR.unity
+    guid: f871989d724a3964da638c7e82997650
   - enabled: 1
     path: Assets/Scenes/RickWorld.unity
     guid: 3aff97252933a31458798c96d525c194
